@@ -1,3 +1,12 @@
+#### iNSTALL
+
+Change htdocs/Conf/conf.php file as per your needs
+Create db dolibarr , Import dolibarr.sql also check schema updates
+
+dolibarr.local pint to dolibarr/htdocs
+
+
+
 # DOLIBARR ERP & CRM
 
 ![Downloads per day](https://img.shields.io/sourceforge/dw/dolibarr.svg)
