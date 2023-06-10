@@ -1,7 +1,7 @@
 #### iNSTALL
 
 Change htdocs/Conf/conf.php file as per your needs
-Create db dolibarr , Import dolibarr.sql also check schema updates
+Create db dolibarr , Import dolibarr.sql also check schema updates, demo user: nabin pass: nabin_Dolibarr
 
 dolibarr.local pint to dolibarr/htdocs
 
